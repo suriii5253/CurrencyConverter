@@ -1,1 +1,1 @@
-A simple and responsive currency converter web app that fetches real-time exchange rates and updates country flags based on user selections using JavaScript and an external API.
+This Currency Converter web app allows users to convert values between global currencies using real-time exchange rates. It features a user-friendly interface with country flags, dropdowns for selecting currencies, and dynamic rate fetching using an external API, providing fast and accurate conversions.
